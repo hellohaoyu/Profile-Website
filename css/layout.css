@@ -514,7 +514,7 @@ ul#nav li.current a { color: #F06000; }
 
 /* popup modal */
 .popup-modal {
-	max-width: 550px;
+	max-width: 500px;
 	background: #fff;
 	position: relative;
 	margin: 0 auto;
@@ -552,6 +552,7 @@ ul#nav li.current a { color: #F06000; }
 	text-transform: uppercase;
    letter-spacing: 3px;
    cursor: pointer;
+   padding-left: 1em;
 }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
