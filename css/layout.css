@@ -549,7 +549,7 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal .link-box a {
    color: #fff;
 	font: 11px/21px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
+	text-transform: none;
    letter-spacing: 3px;
    cursor: pointer;
    padding-left: 1em;
