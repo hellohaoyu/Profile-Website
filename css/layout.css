@@ -533,7 +533,7 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
    color: #A1A1A1;
-   text-transform: uppercase;
+   text-transform: none;
    letter-spacing: 2px;
    display: block;
    text-align: left;
@@ -542,7 +542,7 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 8px;
 }
 .popup-modal .link-box {
-   padding: 18px 36px;
+   padding: 10px 36px 0px;
    background: #111;
    text-align: left;
 }
